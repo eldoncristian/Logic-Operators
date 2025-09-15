@@ -1,0 +1,18 @@
+// Using logic operators
+
+//&& logical AND -- returns TRUE only if all conditions are TRUE
+//|| logical OR -- returns TRUE if any condition is TRUE
+// ! logical NOT -- returns the opposite boolean value
+
+//logical operators
+print( (1==1) && (2==2))
+
+print((1==1) && (2!=))
+
+print((1==) || (2==2))
+
+print((1==1) || (2!=2))
+
+print((1!=1) || (2!=2))
+
+print(!(1==1))
